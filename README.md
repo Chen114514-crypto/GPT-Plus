@@ -140,20 +140,5 @@
 
 ![开始运行扩展流程](docs/images/github-readme-1779194981001.webp)
 
-## 版权与来源说明
-
-本项目基于开源项目 [QLHazyCoder/FlowPilot](https://github.com/QLHazyCoder/FlowPilot) 进行修改、移植与二次开发，其部分早期代码与 [whwh1233/StepFlow-Duck](https://github.com/whwh1233/StepFlow-Duck) 具有共同历史。
-
-原项目及其相关开源部分采用 MIT License 发布。根据 MIT License，你可以在保留原版权声明和许可声明的前提下使用、修改、分发本项目的相关代码。
-
-为避免歧义，原项目作者、历史贡献者与当前二开版本之间不存在默认的认可、担保或背书关系。本项目中新增的适配、流程调整、脚本移植与文档整理内容，除另有说明外，均由当前维护者负责。
-
-如果你分发本项目或其修改版本，请一并保留仓库中的 `LICENSE` 及相关来源说明文件。
-
-## 使用提示
-
-- 使用者应自行遵守目标平台服务条款、适用法律及其所在地区的监管要求
-
-## 友情链接
 
 - [LINUX DO - 新的理想型社区](https://linux.do/)

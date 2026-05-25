@@ -1,13 +1,5 @@
-# GuJumpgate
+# GPTPlus
 
-一个也许能“真正解放双手”的全自动 GPT Plus 注册浏览器扩展。
-
-如果这个项目能帮上你，欢迎点个 Star⭐~
-
-> [!IMPORTANT]
-> 目前 OAuth 风控严重，基本必跳手机绑定，SESSION 拿 AT 已死。
->
-> 以后可能只能 OAUTH 接码了。
 
 ## 已实现能力
 
